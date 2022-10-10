@@ -1,0 +1,10 @@
+
+
+.bg_blue{
+    background-color: rgba(44,62,80,255);
+}
+
+.navbar-nav{
+    flex-grow: 0;
+    
+}
