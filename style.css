@@ -25,4 +25,15 @@ svg{
     transform: translateX(-50%) translateY(-50%);
 }
 
+.linea{
+    height: 3px;
+    background-color: white;
+    width: 30%;
+}
+
+.linea-dark{
+    height: 3px;
+    background-color: black;
+    width: 30%;
+}
 
