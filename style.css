@@ -15,3 +15,14 @@
 .bg_dark-blue{
     background-color: rgba(58,84,109,255);
 }
+
+svg{
+    width: 13px;
+    fill: white;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+
